@@ -5,6 +5,6 @@ public class Demo2 {
 		System.out.println(789);
 		System.out.println(000);
 		System.out.println(456);
-
+		System.out.println(456);
 	}
 }
